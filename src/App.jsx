@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <p className="text-red-300">Hello World</p>
+      <p className="text-red-300 font-primary">Hello World</p>
     </>
   )
 }
